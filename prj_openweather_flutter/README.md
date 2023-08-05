@@ -82,7 +82,7 @@ Pixel_3a_API_34_extension_level_7_arm64-v8a (android-arm64 emulator) - cold boot
 
 ## CLIMATEMPO
 <div>
-<img alt="app" width="350px" height="600px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/1.png"/>
-<img alt="app" width="325px" height="600px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/2.png"/>
-<img alt="app" width="325px" height="600px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/3.png"/>
+<img alt="app" width="300px" height="600px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/1.png"/>
+<img alt="app" width="300px" height="600px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/2.png"/>
+<img alt="app" width="300px" height="600px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/3.png"/>
 </div>
