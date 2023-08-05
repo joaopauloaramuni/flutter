@@ -42,35 +42,41 @@ A aplicação segue o padrão arquitetural MVVM (Model-View-ViewModel), garantin
 git clone https://github.com/joaopauloaramuni/flutter.git
 ```
 
-2. Instale as dependências do projeto:
+2. Acesse a pasta do projeto:
+
+```console
+cd prj_openweather_flutter
+```
+
+3. Instale as dependências do projeto:
 
 ```console
 flutter pub get
 ```
 
-3. Execute o gerador de código do pacote build_runner:
+4. Execute o gerador de código do pacote build_runner:
 
 ```console
 dart run build_runner build
 ```
 
-4. Crie uma conta no OpenWeatherMap e obtenha sua chave de acesso à API.
+5. Crie uma conta no OpenWeatherMap e obtenha sua chave de acesso à API.
 
 - [Open Weather Map](https://openweathermap.org/)
 
-5. Substitua a chave de acesso à API no arquivo lib/models/weather_info.dart:
+6. Substitua a chave de acesso à API no arquivo lib/models/weather_info.dart:
 
 ```js
 const String apiKey = 'SUA_CHAVE_DE_ACESSO';
 ```
 
-6. Selecione/emule o Android como o dispositivo utilizado.
+7. Selecione/emule o Android como o dispositivo utilizado.
 
 É possível fazer isso por meio da extensão Android IOS Emulator ou programas como Genymotion.
 
 - [Genymotion](https://www.genymotion.com/)
 
-7. Execute a aplicação em seu dispositivo emulado:
+8. Execute a aplicação em seu dispositivo emulado:
 
 ```console
 flutter run
