@@ -64,7 +64,7 @@ dart run build_runner build
 
 - [Open Weather Map](https://openweathermap.org/)
 
-6. Substitua a chave de acesso à API no arquivo lib/models/weather_info.dart:
+6. Substitua a chave de acesso à API no arquivo lib/weather_store.dart:
 
 ```js
 const String apiKey = 'SUA_CHAVE_DE_ACESSO';
