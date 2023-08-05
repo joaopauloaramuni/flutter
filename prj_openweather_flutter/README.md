@@ -39,7 +39,7 @@ A aplicação segue o padrão arquitetural MVVM (Model-View-ViewModel), garantin
 1. Clone o repositório para o seu ambiente local:
 
 ```console
-git clone https://github.com/seu-usuario/climatempo.git
+git clone https://github.com/joaopauloaramuni/flutter.git
 ```
 
 2. Instale as dependências do projeto:
